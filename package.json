@@ -1,0 +1,11 @@
+{
+  "name": "supply-chain",
+  "version": "1.0.0",
+  "description": "Supply Chain Management and Logistics computation applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Ballinger",
+  "license": "MIT"
+}
