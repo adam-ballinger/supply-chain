@@ -9,6 +9,7 @@
   "author": "Adam Ballinger",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.17.21",
     "xlsx": "^0.18.5"
   }
 }
